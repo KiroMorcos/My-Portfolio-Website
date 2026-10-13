@@ -2,7 +2,7 @@
 
 > A modern, responsive, and accessible personal portfolio website built with clean HTML5, vanilla JavaScript, and modern CSS featuring smooth scroll reveal animations, interactive project filtering, and a dynamic light/dark theme switcher.
 
-[![Live Demo](https://img.shields.io/badge/Live-Website-9b4819?style=for-the-badge&logo=vercel&logoColor=white)](https://kiromorcos.github.io/Fast-Typing-Practice-/)
+[![Live Demo](https://img.shields.io/badge/Live-Website-9b4819?style=for-the-badge&logo=vercel&logoColor=white)](https://kiromorcos.github.io/My-Portfolio-Website/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
